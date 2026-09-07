@@ -4,4 +4,4 @@ Para poder ejecutar el servidor proxy, se debe runear desde una virtual box, lin
 Usando la terminal y el commando Python3 + el nombre del archivo.
 Luego usando el firefox de la misma virtualbox, seteamos el proxy en la configuracion del navegador usando la IP "localhost" con puerto 8000
 
-Se necesita tener ademas los archivos json, prohibido y test respectivamente, en la misma carpeta donde se encuentra Redes1.py
+Se necesita tener además los archivos prohibido.json y test.json , en la misma carpeta donde se encuentra Redes1.py
